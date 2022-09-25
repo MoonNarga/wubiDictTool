@@ -667,7 +667,6 @@ encoder:
 基层	adnf
 苦情	adng
 藏书	adnn
-藏民	adnn
 项羽	adnn
 基础性	adnt
 莱布尼兹	adnu
@@ -3175,7 +3174,6 @@ encoder:
 貰	anmu
 贳	anmu
 蕊	ann
-苠	anna
 乬	annb
 巪	annb
 甘心情愿	annd
@@ -3734,7 +3732,6 @@ encoder:
 荷包蛋	aqnh
 警惕	aqnj
 警局	aqnn
-警民	aqnn
 㤅	aqnu
 葱翠	aqny
 菊	aqo
@@ -10061,7 +10058,6 @@ encoder:
 难懂	cwna
 难民	cwna
 难怪	cwnc
-难民	cwnn
 难买	cwnu
 难以	cwny
 难度	cwoa
@@ -14206,7 +14202,6 @@ encoder:
 䂥	dnna
 大发展	dnna
 盛情	dnng
-䃉	dnnj
 成书	dnnn
 不愉快	dnnn
 大局已定	dnnp
@@ -16083,7 +16078,6 @@ encoder:
 有偿使用	dwwe
 䂳	dwwf
 春风化雨	dwwf
-䃸	dwwg
 奉命	dwwg
 三个代表	dwwg
 有几件事	dwwg
@@ -17862,7 +17856,6 @@ encoder:
 甩脱	eneu
 胸怀坦荡	enfa
 甩动	enfc
-䏔	enfg
 力士	enfg
 力场	enfn
 甩卖	enfn
@@ -18110,8 +18103,6 @@ encoder:
 边民	epna
 受屈	epnb
 爱情	epng
-爱民	epnn
-边民	epnn
 愛	epnt
 爱憎	epnu
 爱恨	epnv
@@ -18978,8 +18969,6 @@ encoder:
 爱人民	ewna
 脸蛋	ewnh
 䏨	ewnn
-股民	ewnn
-爱人民	ewnn
 膇	ewnp
 惥	ewnu
 脸庞	ewod
@@ -19027,7 +19016,6 @@ encoder:
 腳	ewwb
 办公	ewwc
 脞	ewwf
-䑎	ewwg
 脏兮兮	ewwg
 办几件实事	ewwg
 股份公司	ewwn
@@ -22488,6 +22476,7 @@ encoder:
 专著	fnaf
 增收节支	fnaf
 㦞	fnan
+垊	fnan
 翿	fnan
 卖艺	fnan
 燾	fnao
@@ -22611,7 +22600,6 @@ encoder:
 圠	fnn
 圮	fnn
 圯	fnn
-垊	fnna
 志异	fnna
 专司	fnng
 直愣愣	fnnl
@@ -28102,7 +28090,6 @@ encoder:
 惠民	gjna
 理屈	gjnb
 更惨	gjnc
-惠民	gjnn
 更快	gjnn
 更怕	gjnr
 更改	gjnt
@@ -29057,6 +29044,7 @@ encoder:
 与其	gnad
 瓦斯	gnad
 致以节日的祝贺	gnae
+瑉	gnaj
 珉	gnan
 瓦匠	gnar
 开发区	gnar
@@ -29085,7 +29073,6 @@ encoder:
 殖民地	gnfb
 一心二用	gnfe
 死心塌地	gnff
-㺲	gnfg
 瓦块	gnfn
 更快地发展	gnfn
 殖民者	gnft
@@ -29123,7 +29110,6 @@ encoder:
 玌	gnn
 玘	gnn
 瓦	gnn
-珉	gnna
 与民	gnna
 邷	gnnb
 瓪	gnnc
@@ -29134,7 +29120,6 @@ encoder:
 一层层	gnnf
 瓦屋	gnng
 静悄悄	gnni
-瑉	gnnj
 瓸	gnnj
 瓱	gnnn
 瓲	gnnn
@@ -30551,7 +30536,6 @@ encoder:
 平坦	gufj
 平	gufk
 下半场	gufn
-琷	gufq
 平均	gufq
 万美元	gufq
 夹雪	gufv
@@ -30570,6 +30554,7 @@ encoder:
 副总理	gugj
 夹带	gugk
 平整	gugk
+琷	gugn
 到头来	gugo
 一前一后	gugr
 一问一答	gugt
@@ -30620,7 +30605,6 @@ encoder:
 亚美尼亚	gung
 一门心思	gunl
 平局	gunn
-平民	gunn
 一次性	gunt
 再次发生	gunt
 夹心	guny
@@ -31310,7 +31294,6 @@ encoder:
 㻞	gyna
 王永民	gyna
 一夜情	gyng
-王永民	gynn
 一言以蔽之	gynp
 王永民教授	gynr
 开放性	gynt
@@ -32925,6 +32908,7 @@ encoder:
 眠	hna
 䁕	hnaj
 眠	hnan
+眠	hnan
 虚怀若谷	hnaw
 瞰	hnb
 凹陷	hnbq
@@ -32964,10 +32948,7 @@ encoder:
 肯尼迪	hnmp
 兕	hnmq
 颅内	hnmw
-眠	hnn
-眠	hnna
 㠯	hnnd
-䁕	hnnj
 悲剧性	hnnt
 鸬	hnq
 卢氏	hnqa
@@ -36061,7 +36042,6 @@ encoder:
 江泽民同志	iinf
 淋漓尽致	iing
 沿海发展战略	iinl
-江泽民	iinn
 水性	iint
 沙发	iint
 江泽民说	iiny
@@ -36940,6 +36920,7 @@ encoder:
 澱	inac
 汛期	inad
 洗心革面	inad
+湣	inaj
 泯	inan
 汤药	inax
 潺	inb
@@ -37035,11 +37016,9 @@ encoder:
 漏网	inmr
 㲸	inn
 汜	inn
-泯	inna
 汛情	inng
 赏心悦目	innh
 泌尿	inni
-湣	innj
 小心翼翼	innn
 烫发	innt
 潠	innw
@@ -37810,7 +37789,6 @@ encoder:
 渔民	iqna
 泡尿	iqni
 泡	iqnn
-渔民	iqnn
 㶍	iqog
 渔业	iqog
 瀂	iqoj
@@ -38912,7 +38890,6 @@ encoder:
 㳯	iufh
 洋场	iufn
 溜冰场	iufn
-㳾	iufq
 涕零	iufw
 清道夫	iufw
 学前教育	iufy
@@ -38934,6 +38911,7 @@ encoder:
 瀾	iugi
 㵛	iugk
 滋事	iugk
+㳾	iugn
 溔	iugo
 海阔天空	iugp
 当头一棒	iugs
@@ -39492,7 +39470,6 @@ encoder:
 没做	iwwd
 光合作用	iwwe
 党代会	iwwf
-瀸	iwwg
 没命	iwwg
 沿途	iwwg
 法人代表	iwwg
@@ -39501,6 +39478,7 @@ encoder:
 混合体	iwws
 浴盆	iwwv
 没人	iwww
+瀸	iwwy
 沦	iwx
 潑	iwxc
 沿线	iwxf
@@ -41814,7 +41792,6 @@ encoder:
 电脑	jney
 电动	jnfc
 野心勃勃	jnff
-䖡	jnfg
 电场	jnfn
 电教	jnft
 蛡	jng
@@ -41861,7 +41838,6 @@ encoder:
 电网	jnmr
 虬	jnn
 电导	jnnf
-㬆	jnnj
 电刷	jnnm
 蟤	jnnw
 电业	jnog
@@ -43161,7 +43137,6 @@ encoder:
 昐	jwvt
 蚡	jwvt
 蛜	jwvt
-䘋	jwwg
 晃悠悠	jwwh
 归侨侨眷	jwwu
 最低价	jwww
@@ -45918,6 +45893,7 @@ encoder:
 叫	kn
 叫苦	knad
 㗃	knaj
+呡	knan
 中心区	knar
 吃尽苦头	knau
 忠心耿耿	knbb
@@ -45985,9 +45961,7 @@ encoder:
 唰	knm
 唰	knmj
 中心内容	knmp
-呡	knna
 叫屈	knnb
-㗃	knnj
 哪怕	knnr
 噀	knnw
 哪类	knod
@@ -48288,7 +48262,6 @@ encoder:
 车	lgnh
 畏惧	lgnh
 国书	lgnn
-国民	lgnn
 畸形发展	lgnn
 车尾	lgnt
 辅以	lgny
@@ -48727,7 +48700,6 @@ encoder:
 回收	lknh
 回避	lknk
 回忆	lknn
-回民	lknn
 圆心	lkny
 回应	lkoi
 回火	lkoo
@@ -48939,6 +48911,7 @@ encoder:
 甲骨文	lmyy
 思	ln
 辗	lna
+罠	lnab
 国民警卫队	lnab
 思茅	lnac
 回收期	lnad
@@ -48946,6 +48919,7 @@ encoder:
 辗	lnae
 思慕	lnaj
 䡑	lnan
+囻	lnav
 轧花	lnaw
 轏	lnbb
 罹难	lncw
@@ -48982,9 +48956,6 @@ encoder:
 回心转意	lnlu
 軋	lnn
 轧	lnn
-䡑	lnna
-囻	lnna
-罠	lnna
 思忖	lnnf
 思情	lnng
 国民收入	lnnt
@@ -51782,9 +51753,7 @@ encoder:
 歄	mnmw
 乢	mnn
 屺	mnn
-岷	mnna
 岂敢	mnnb
-㟭	mnnj
 同情心	mnny
 岂料	mnou
 岂容	mnpw
@@ -52108,7 +52077,6 @@ encoder:
 刚刚	mrmr
 网内	mrmw
 网民	mrna
-网民	mrnn
 刚性	mrnt
 网迷	mrop
 周年之际	mrpb
@@ -52957,14 +52925,20 @@ encoder:
 异常	naip
 殿堂	naip
 改革派	nair
+刡	naj
 异	naj
+昬	naj
 羿	naj
+敯	najc
 慔	najd
 民盟	naje
 愺	najf
+昬	najf
 惜时	najf
 惜	najg
 改邪归正	najg
+刡	najh
+蟁	najj
 展映	najm
 展览	najt
 愝	najv
@@ -52986,6 +52960,7 @@ encoder:
 居世界前列	nalg
 居世界领先水平	nalg
 懵	nalh
+㥸	naln
 㥸	naln
 懜	nalq
 忆苦思甜	nalt
@@ -53052,15 +53027,19 @@ encoder:
 展板	nasr
 异样	nasu
 懂	nat
+敃	nat
 慌乱	natd
 民航	nate
 懂	natf
 民选	natf
 懂行	natg
 民生	natg
+睯	nath
+暋	natj
 懂得	natj
 民和	natk
 㟩	natm
+愍	natn
 愍	natn
 民乐	natn
 居功自恃	natn
@@ -53070,6 +53049,7 @@ encoder:
 民营科技	natr
 民委	natv
 居功自傲	natw
+敃	naty
 惬意	nauj
 民意	nauj
 民间	nauj
@@ -53092,6 +53072,7 @@ encoder:
 展会	nawf
 民企	nawh
 以工代赈	nawm
+鴖	nawo
 民营企业	nawo
 异父	nawr
 民风	nawr
@@ -53399,7 +53380,6 @@ encoder:
 剧情	ndng
 忧惧	ndnh
 忧悒	ndnk
-居民	ndnn
 怕不怕	ndnr
 惰性	ndnt
 以大局为重	ndnt
@@ -54793,34 +54773,17 @@ encoder:
 收购计划	nmya
 已	nn
 巽	nna
-民	nna
-民工	nnaa
 懒懒散散	nnaa
-敯	nnac
 发情期	nnad
-睯	nnah
 居心叵测	nnai
 心怀叵测	nnai
-刡	nnaj
-昬	nnaj
-暋	nnaj
-蟁	nnaj
-民勤	nnak
-民革	nnak
-㟩	nnam
-䪸	nnam
-㥸	nnan
-愍	nnan
-鴖	nnao
+惽	nnaj
+怋	nnan
 選	nnap
-民营	nnap
 层层落实	nnap
 已获	nnaq
-民警	nnaq
 居民区	nnar
-敃	nnat
 快攻	nnat
-民	nnav
 巽	nnaw
 局子	nnbb
 书函	nnbi
@@ -54831,7 +54794,6 @@ encoder:
 㦑	nnbt
 局限	nnbv
 发展阶段	nnbw
-民防	nnby
 慷慨陈词	nnby
 层层叠叠	nncc
 已能	nnce
@@ -54863,12 +54825,10 @@ encoder:
 慢慢腾腾	nnee
 乙肝	nnef
 已用	nneh
-民用	nneh
 心惊胆战	nneh
 书架	nnek
 惯性力	nnen
 乙胺	nnep
-民办	nnew
 乙脑	nney
 局域	nnfa
 发展规划	nnfa
@@ -54876,13 +54836,11 @@ encoder:
 愉快地	nnfb
 已去	nnfc
 快去	nnfc
-民运	nnfc
 书坛	nnff
 羽坛	nnff
 忆起	nnfh
 快走	nnfh
 书刊	nnfj
-民进	nnfj
 书场	nnfn
 已过	nnfp
 已远	nnfq
@@ -54898,10 +54856,8 @@ encoder:
 发展到	nngc
 快于	nngf
 习惯于	nngf
-民政	nngh
 㓸	nngj
 快速	nngk
-民事	nngk
 书画	nngl
 己	nngn
 巳	nngn
@@ -54932,14 +54888,12 @@ encoder:
 书	nnhy
 已满	nnia
 书法	nnif
-民法	nnif
 发展水平	nnig
 发展潮流	nnii
 慷慨激昂	nnij
 发展党员	nnik
 快活	nnit
 书脊	nniw
-民盟	nnje
 书里	nnjf
 已是	nnjg
 发展是硬道理	nnjg
@@ -54955,7 +54909,6 @@ encoder:
 书中	nnkh
 快跑	nnkh
 忌口	nnkk
-民品	nnkk
 发展中国家	nnkp
 发展史	nnkr
 快吃	nnkt
@@ -54963,7 +54916,6 @@ encoder:
 性情中人	nnkw
 乙	nnl
 快车	nnlg
-民国	nnlg
 乙	nnll
 乚	nnll
 乛	nnll
@@ -54980,16 +54932,13 @@ encoder:
 局内	nnmw
 忆	nnn
 忋	nnn
-怋	nnna
 书展	nnna
 尽心尽力	nnne
 快慰	nnnf
 快迅	nnnf
 书屋	nnng
-民情	nnng
 发展迅速	nnng
 繠	nnni
-惽	nnnj
 快慢	nnnj
 羽翼	nnnl
 已	nnnn
@@ -55006,7 +54955,6 @@ encoder:
 忌恨	nnnv
 㦏	nnnw
 已尽	nnny
-民心	nnny
 乙类	nnod
 书店	nnoh
 书库	nnol
@@ -55027,7 +54975,6 @@ encoder:
 书馆	nnqn
 眉飞色舞	nnqr
 尽快解决	nnqu
-㰝	nnqw
 已久	nnqy
 书报	nnrb
 快报	nnrb
@@ -55037,7 +54984,6 @@ encoder:
 心怀鬼胎	nnre
 慴	nnrg
 快捷	nnrg
-民兵	nnrg
 快看	nnrh
 已近	nnrp
 憔悴的面容	nnrp
@@ -55049,7 +54995,6 @@ encoder:
 惰性气体	nnrw
 书摘	nnry
 书柜	nnsa
-民权	nnsc
 书橱	nnsd
 乙酸	nnsg
 乙醇	nnsg
@@ -55057,7 +55002,6 @@ encoder:
 发展要求	nnsg
 发展机遇	nnsj
 已可	nnsk
-民歌	nnsk
 惺惺相惜	nnsn
 居民楼	nnso
 心心相印	nnsq
@@ -55072,17 +55016,13 @@ encoder:
 书籍	nntd
 已知	nntd
 快艇	nnte
-民航	nnte
 发展生产力	nnte
 羽毛	nntf
 书生	nntg
-民生	nntg
 书香	nntj
 快得	nntj
-民和	nntk
 尸身	nntm
 快乐	nntn
-民乐	nntn
 屡屡得手	nntr
 书箱	nnts
 发展科学技术	nnts
@@ -55094,7 +55034,6 @@ encoder:
 发改委	nntv
 书签	nntw
 居民委员会	nntw
-攺	nnty
 书稿	nnty
 已往	nnty
 居民身份证	nnty
@@ -55104,8 +55043,6 @@ encoder:
 尽心竭力	nnue
 慢性病	nnug
 快意	nnuj
-民意	nnuj
-民间	nnuj
 发展前景	nnuj
 局部	nnuk
 发展道路	nnuk
@@ -55117,7 +55054,6 @@ encoder:
 快门	nnuy
 乜	nnv
 已退	nnve
-民建	nnvg
 忏悔录	nnvi
 快如	nnvk
 快婿	nnvn
@@ -55126,7 +55062,6 @@ encoder:
 忧心如焚	nnvs
 忌妒	nnvy
 快	nnw
-㱼	nnwc
 惺惺作态	nnwd
 憀	nnwe
 已付	nnwf
@@ -55135,12 +55070,9 @@ encoder:
 局促	nnwk
 快追	nnwn
 鵋	nnwo
-民风	nnwr
 尸体	nnws
 己任	nnwt
 快件	nnwt
-民众	nnww
-民俗	nnww
 发展合作	nnww
 羽化	nnwx
 快	nnwy
@@ -55160,12 +55092,10 @@ encoder:
 羽	nny
 快译	nnyc
 书斋	nnyd
-民谣	nnye
 心悦诚服	nnye
 忌讳	nnyf
 羽	nnyg
 书评	nnyg
-民主	nnyg
 习以为常	nnyi
 书亭	nnyk
 已就	nnyk
@@ -55174,11 +55104,9 @@ encoder:
 书讯	nnyn
 书记	nnyn
 快讯	nnyn
-民房	nnyn
 异性恋	nnyo
 已离	nnyr
 已为	nnyt
-民族	nnyt
 悄悄话	nnyt
 发展方向	nnyt
 书商	nnyu
@@ -55901,6 +55829,7 @@ encoder:
 悔	ntxy
 改编	ntxy
 改	nty
+攺	nty
 发育	ntyc
 必读	ntyf
 发证	ntyg
@@ -56331,7 +56260,6 @@ encoder:
 㤋	nwvt
 翂	nwvt
 恰值	nwwf
-懺	nwwg
 慢悠悠	nwwh
 司售人员	nwwk
 恰似	nwwn
@@ -56342,6 +56270,7 @@ encoder:
 收件人	nwww
 收信人	nwww
 收货人	nwww
+懺	nwwy
 尽人皆知	nwxt
 性价比	nwxx
 怜	nwy
@@ -59491,7 +59420,6 @@ encoder:
 粉黛	owwa
 膺	owwe
 座	owwf
-䊱	owwg
 鹰	owwg
 粉盒	owwg
 噟	owwk
@@ -60226,7 +60154,6 @@ encoder:
 农田	pell
 军用车辆	pell
 农民	pena
-农民	penn
 神采飞扬	penr
 军用飞机	pens
 实用性	pent
@@ -60603,7 +60530,6 @@ encoder:
 写书	pgnn
 定局	pgnn
 家书	pgnn
-富民	pgnn
 军事情报	pgnr
 官逼民反	pgnr
 定性	pgnt
@@ -61096,8 +61022,6 @@ encoder:
 军民	plna
 军转民	plna
 军情	plng
-军民	plnn
-军转民	plnn
 神思恍惚	plnn
 军属	plnt
 礼轻情义重	plnt
@@ -61345,7 +61269,6 @@ encoder:
 家庭网络	pomx
 灾民	pona
 灾情	pong
-灾民	ponn
 农业局	ponn
 军火库	pool
 密麻麻	poos
@@ -61909,7 +61832,6 @@ encoder:
 农牧民	ptna
 实行改革	ptna
 客居	ptnd
-农牧民	ptnn
 宇航局	ptnn
 宅心	ptny
 额度	ptoa
@@ -62640,7 +62562,6 @@ encoder:
 安居	pvnd
 安慰	pvnf
 案情	pvng
-安民	pvnn
 案发	pvnt
 安心	pvny
 安度	pvoa
@@ -66101,8 +66022,11 @@ encoder:
 饭菜	qnae
 馑	qnag
 乌鸦	qnah
+鍲	qnaj
 饲草	qnaj
 狗尾草	qnaj
+鈱	qnan
+饥民	qnan
 饶	qnaq
 饱蘸	qnas
 馓	qnat
@@ -66239,9 +66163,6 @@ encoder:
 釲	qnn
 钆	qnn
 钇	qnn
-鈱	qnna
-饥民	qnna
-鍲	qnnj
 鋦	qnnk
 锔	qnnk
 饲	qnnk
@@ -72159,6 +72080,7 @@ encoder:
 气功	rnae
 撰著	rnaf
 㨉	rnaj
+㨉	rnaj
 扬鞭	rnak
 抿	rnan
 扎营	rnap
@@ -72342,11 +72264,9 @@ encoder:
 氝	rnmw
 扎	rnn
 癿	rnn
-抿	rnna
 指导性计划	rnna
 气愤	rnnf
 扬眉	rnnh
-㨉	rnnj
 挶	rnnk
 所属	rnnt
 指导性	rnnt
@@ -75253,7 +75173,6 @@ encoder:
 挪作他用	rwwe
 挫	rwwf
 失传	rwwf
-攕	rwwg
 投合	rwwg
 推倒	rwwg
 推拿	rwwg
@@ -75270,6 +75189,7 @@ encoder:
 提供优质服务	rwwt
 抢位	rwwu
 投保人	rwww
+攕	rwwy
 失信	rwwy
 抡	rwx
 拾级	rwxb
@@ -76676,7 +76596,6 @@ encoder:
 㭏	sfnh
 剽悍	sfnj
 杇	sfnn
-村民	sfnn
 标书	sfnn
 机动性	sfnt
 飘飞	sfnu
@@ -79765,7 +79684,6 @@ encoder:
 桽	swwf
 麵	swwf
 机会	swwf
-櫼	swwg
 麰	swwg
 䴶	swwh
 机修	swwh
@@ -79814,6 +79732,7 @@ encoder:
 概念化	swwx
 䴬	swwy
 枞	swwy
+櫼	swwy
 猌	swwy
 麱	swwy
 桦	swx
@@ -81357,7 +81276,6 @@ encoder:
 䎇	teng
 租屋	teng
 艉	tenn
-船民	tenn
 䒁	tenr
 务必	tent
 船尾	tent
@@ -81917,7 +81835,6 @@ encoder:
 毳	tfnn
 毸	tfnn
 特快	tfnn
-选民	tfnn
 毩	tfno
 毯	tfno
 毱	tfno
@@ -83795,7 +83712,6 @@ encoder:
 利尿	tjni
 复辟	tjnk
 利己	tjnn
-利民	tjnn
 馝	tjnt
 复发	tjnt
 生日快乐	tjnt
@@ -84775,6 +84691,7 @@ encoder:
 向谁	tmyw
 自由主义	tmyy
 乐	tn
+笢	tnab
 各司其职	tnab
 各尽其能	tnac
 特异功能	tnac
@@ -84865,7 +84782,6 @@ encoder:
 乐凯	tnmn
 䄫	tnn
 筷	tnn
-笢	tnna
 秘书	tnnn
 延展性	tnnt
 自发性	tnnt
@@ -85437,7 +85353,6 @@ encoder:
 移居	tqnd
 移情	tqng
 和氏璧	tqnk
-移民	tqnn
 翻然悔悟	tqnn
 物性	tqnt
 重金属	tqnt
@@ -86243,7 +86158,6 @@ encoder:
 秭	ttn
 牧民	ttna
 舐犊情深	ttni
-牧民	ttnn
 税务局	ttnn
 自我发展	ttnn
 牬	ttnt
@@ -86992,7 +86906,6 @@ encoder:
 㣥	twff
 黏土	twff
 科伦坡	twfh
-稌	twfi
 穄	twfi
 短途运输	twfl
 长途运输	twfl
@@ -87208,7 +87121,6 @@ encoder:
 各个领域	twwf
 身价倍增	twwf
 㹐	twwg
-䆎	twwg
 符合	twwg
 各位代表	twwg
 從	twwh
@@ -89002,8 +88914,6 @@ encoder:
 壮实	ufpu
 装裱	ufpu
 凌空	ufpw
-羌	ufq
-羌	ufqb
 闺怨	ufqb
 养鱼	ufqg
 北朝鲜	ufqg
@@ -89382,6 +89292,7 @@ encoder:
 病	ugmw
 羊肉	ugmw
 㿛	ugmx
+羌	ugn
 羞	ugn
 差异	ugna
 美展	ugna
@@ -89407,6 +89318,7 @@ encoder:
 恙	ugnu
 半屏	ugnu
 㽲	ugnv
+羌	ugnv
 䍻	ugnw
 凄怆	ugnw
 半殖民地半封建社会	ugnw
@@ -90767,11 +90679,13 @@ encoder:
 凋谢	umyt
 端详	umyu
 决	un
+䇇	una
 癜	una
 首发式	unaa
 癜	unac
 卷心菜	unae
 䇇	unan
+冺	unan
 阚	unb
 决出	unbm
 闞	unbt
@@ -90813,8 +90727,6 @@ encoder:
 决口	unkk
 关心国家大事	unlg
 䇃	unn
-䇇	unna
-冺	unna
 新发展	unna
 病恹恹	unnd
 决心	unny
@@ -91520,7 +91432,6 @@ encoder:
 新屋	usng
 亲疏	usnh
 新书	usnn
-新民	usnn
 亲属	usnt
 新买	usnu
 闲心	usny
@@ -94397,6 +94308,7 @@ encoder:
 㛰	vnaj
 刀鞘	vnak
 媚惑	vnak
+姄	vnan
 如履薄冰	vnau
 㐇	vnb
 刀子	vnbb
@@ -94437,8 +94349,6 @@ encoder:
 媚骨	vnme
 刀山	vnmm
 妃	vnn
-姄	vnna
-㛰	vnnj
 巛	vnnn
 好习惯	vnnx
 忍心害理	vnpg
@@ -95072,7 +94982,6 @@ encoder:
 嬘	vuep
 㛙	vufh
 建立起	vufh
-㛨	vufq
 姘夫	vufw
 嫅	vuga
 媄	vugd
@@ -95083,6 +94992,7 @@ encoder:
 孄	vugi
 嫸	vugk
 录音带	vugk
+㛨	vugn
 嫌恶	vugo
 即将开始	vugv
 嬟	vugy
@@ -95338,12 +95248,12 @@ encoder:
 㛗	vwwf
 如何促进	vwwf
 始作俑者	vwwf
-孅	vwwg
 群众代表	vwwg
 好几个	vwwh
 退休人员	vwwk
 如何做好	vwwv
 召集人	vwww
+孅	vwwy
 退休费	vwxj
 群众组织	vwxx
 妗	vwy
@@ -96033,7 +95943,6 @@ encoder:
 公司	wcng
 伃	wcnh
 僪	wcnk
-公民	wcnn
 鶲	wcno
 㑱	wcns
 凤尾	wcnt
@@ -97386,12 +97295,10 @@ encoder:
 傲慢	wgnj
 合璧	wgnk
 㿽	wgnl
-便民	wgnn
 僵尸	wgnn
 僵局	wgnn
 全书	wgnn
 全局	wgnn
-全民	wgnn
 人事局	wgnn
 愈发	wgnt
 代表性	wgnt
@@ -100167,7 +100074,6 @@ encoder:
 八届	wtnm
 几届	wtnm
 仡	wtnn
-侨民	wtnn
 任务书	wtnn
 优先发展	wtnn
 分秒必争	wtnq
@@ -100802,7 +100708,6 @@ encoder:
 分忧	wvnd
 分层	wvnf
 分局	wvnn
-贫民	wvnn
 分发	wvnt
 分属	wvnt
 颁发	wvnt
@@ -101223,7 +101128,6 @@ encoder:
 分公司	wwng
 依依惜别	wwnk
 丛书	wwnn
-人民	wwnn
 风俗习惯	wwnn
 从今以后	wwnr
 令人发指	wwnr
@@ -102362,13 +102266,11 @@ encoder:
 餧	wytv
 伪	wyty
 倣	wyty
-飠	wyty
 餓	wyty
 修订稿	wyty
 从这种意义上说	wyty
 亽	wyu
 傍	wyu
-飠	wyu
 餅	wyua
 会议闭幕	wyua
 食疗	wyub
@@ -102426,6 +102328,7 @@ encoder:
 食	wyv
 戧	wyva
 偏好	wyvb
+飠	wyvc
 含怒	wyvc
 䬶	wyve
 俍	wyve
@@ -104248,6 +104151,7 @@ encoder:
 纪	xn
 缗	xna
 缪斯	xnad
+緡	xnaj
 缗	xnaj
 纠葛	xnaj
 㢯	xnan
@@ -104301,12 +104205,8 @@ encoder:
 糺	xnn
 紀	xnn
 纪	xnn
-㢯	xnna
-䋋	xnna
 幻异	xnna
 纟	xnng
-緡	xnnj
-缗	xnnj
 费尽心机	xnns
 母性	xnnt
 费尽心血	xnnt
@@ -107711,8 +107611,8 @@ encoder:
 敲击	ykgb
 就到	ykgc
 识到	ykgc
+误	ykgd	2
 誤	ykgd
-误	ykgd
 衰	ykge
 高于	ykgf
 话中带刺	ykgg
@@ -108276,7 +108176,6 @@ encoder:
 市民	ymna
 调情	ymng
 諣	ymnk
-市民	ymnn
 市属	ymnt
 市尺	ymny
 调度	ymoa
@@ -108440,14 +108339,12 @@ encoder:
 读书无用	ynfe
 齐心协力	ynfe
 启封	ynff
-䚼	ynfg
 訊	ynfh
 讯	ynfh
 记起	ynfh
 启示	ynfi
 永嘉	ynfk
 记载	ynfl
-䛝	ynfm
 义愤填膺	ynfo
 记过	ynfp
 永远	ynfq
@@ -108537,14 +108434,14 @@ encoder:
 啟	ynkt
 永川	ynkt
 䊨	ynkw
+赢	ynky	10
+嬴	ynky	9
+羸	ynky	8
+贏	ynky	7
 䇔	ynky
 䊨	ynky
-嬴	ynky
-羸	ynky
 臝	ynky
 蠃	ynky
-贏	ynky
-赢	ynky
 驘	ynky
 鸁	ynky
 㧂	ynld
@@ -108582,7 +108479,6 @@ encoder:
 忘	ynn
 記	ynn
 记	ynn
-䛉	ynna
 氓	ynna
 房展	ynna
 扇	ynnd
@@ -109833,7 +109729,6 @@ encoder:
 訖	ytnn
 讫	ytnn
 为己	ytnn
-为民	ytnn
 房管局	ytnn
 為	ytno
 谢忱	ytnp
@@ -110728,7 +110623,6 @@ encoder:
 六届	ywnm
 充分发表意见	ywnm
 设局	ywnn
-为人民	ywnn
 文化局	ywnn
 充分发扬	ywnr
 充分发挥	ywnr
@@ -110927,7 +110821,6 @@ encoder:
 交会	ywwf
 谁会	ywwf
 订货会	ywwf
-谶	ywwg
 交合	ywwg
 六合	ywwg
 效命	ywwg
@@ -110956,6 +110849,7 @@ encoder:
 文化传统	ywwx
 衣食父母	ywwx
 讖	ywwy
+谶	ywwy
 雜	ywwy
 交售	ywwy
 交集	ywwy

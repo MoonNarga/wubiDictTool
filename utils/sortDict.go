@@ -8,6 +8,9 @@ import (
 func SortDict(dicts [][]string) {
 	sort.Slice(dicts, func(i, j int) bool {
 		if dicts[i][1] == dicts[j][1] {
+			if len(dicts[i]) != len(dicts[j]) {
+				return len(dicts[i]) > len(dicts[j])
+			}
 			if len(dicts[i]) == 3 {
 				v1, _ := strconv.Atoi(dicts[i][2])
 				v2, _ := strconv.Atoi(dicts[j][2])
