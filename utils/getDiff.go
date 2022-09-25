@@ -2,6 +2,7 @@ package utils
 
 import (
 	"os"
+	"sort"
 )
 
 func GetDiff(dicts [][]string) {
@@ -18,28 +19,41 @@ func GetDiff(dicts [][]string) {
 		newMap[v[0]] = append(newMap[v[0]], v[1])
 	}
 
+	diffDict := make([][]string, 0)
 	for k, v := range originMap {
 		vNew, ok := newMap[k]
+		str := []string{}
 		if ok {
 			if vNew[0] != v[0] {
-				// fmt.Println(vNew[0], v[1])
-				content = append(content, []byte(k)...)
-				for _, vv := range v {
-					content = append(content, '	')
-					content = append(content, []byte(vv)...)
-				}
-				content = append(content, '	')
-				content = append(content, []byte("->")...)
-				for _, vv := range vNew {
-					content = append(content, '	')
-					content = append(content, []byte(vv)...)
-				}
-				content = append(content, '\n')
+				str = append(str, k)
+				str = append(str, v...)
+				str = append(str, "->")
+				str = append(str, vNew...)
 			}
 		} else {
-			content = append(content, []byte(k)...)
-			content = append(content, []byte("	delete\n")...)
+			str = append(str, k, " delete")
 		}
+		if len(str) != 0 {
+			diffDict = append(diffDict, str)
+		}
+	}
+
+	sort.Slice(diffDict, func(i, j int) bool {
+		if len(diffDict[i]) > 2 && len(diffDict[j]) > 2 {
+			return diffDict[i][len(diffDict[i])-1] < diffDict[j][len(diffDict[j])-1]
+		}
+		if len(diffDict[i]) == len(diffDict[j]) {
+			return diffDict[i][0] < diffDict[j][0]
+		}
+		return len(diffDict[i]) > len(diffDict[j])
+	})
+	for _, v := range diffDict {
+		content = append(content, []byte(v[0])...)
+		for i := 1; i < len(v); i++ {
+			content = append(content, '	')
+			content = append(content, []byte(v[i])...)
+		}
+		content = append(content, '\n')
 	}
 
 	err := os.WriteFile("./yamls/diff.yaml", content, 0644)

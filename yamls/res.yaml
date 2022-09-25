@@ -29234,6 +29234,7 @@ encoder:
 严厉	godg
 恶感	godg
 玉米面	godm
+慭	godn
 严	godr
 䴡	godx
 来袭	godx
@@ -30653,7 +30654,6 @@ encoder:
 㻥	gusg
 平装本	gusg
 一首歌	gusk
-慭	gusn
 夹板	gusr
 平板	gusr
 副站长	guta
@@ -77158,6 +77158,7 @@ encoder:
 㶾	sgou
 配料	sgou
 醭	sgow
+梾	sgoy
 酡	sgp
 梗塞	sgpa
 丁字	sgpb
@@ -77304,7 +77305,6 @@ encoder:
 醷	sgun
 本次	sguq
 相互竞争	sguq
-梾	sgus
 相互关系	sgut
 相互尊重	sgut
 西北	sgux
@@ -97413,6 +97413,7 @@ encoder:
 全数	wgov
 企事业单位	wgow
 集束炸弹	wgox
+俫	wgoy
 余粮	wgoy
 公开赛	wgpa
 贪天之功	wgpa
@@ -97594,7 +97595,6 @@ encoder:
 合闸	wgul
 合资	wguq
 公平竞争	wguq
-俫	wgus
 余闲	wgus
 全新	wgus
 便道	wgut
@@ -108539,12 +108539,12 @@ encoder:
 䊨	ynkw
 䇔	ynky
 䊨	ynky
-嬴	ynky	9
-羸	ynky	8
+嬴	ynky
+羸	ynky
 臝	ynky
 蠃	ynky
-贏	ynky	7
-赢	ynky	10
+贏	ynky
+赢	ynky
 驘	ynky
 鸁	ynky
 㧂	ynld
@@ -108569,7 +108569,7 @@ encoder:
 扃	ynmk
 房山	ynmm
 㲢	ynmn
-翩	ynmn	2
+翩	ynmn
 騗	ynmo
 鶣	ynmo
 遍	ynmp
