@@ -24432,8 +24432,8 @@ encoder:
 增	ful
 吉普车	fulg
 趣闻轶事	fulg
-増	fulj
-增	fulj
+增	fulj	2
+増	fulj	1
 啬	fulk
 魂斗罗	fulq
 示意图	fult
@@ -42217,9 +42217,8 @@ encoder:
 昂贵	jqkh
 畅销品	jqkk
 煦	jqko
-冕	jqkq
-晚	jqkq
-晩	jqkq
+晚	jqkq	2
+冕	jqkq	1
 蜔	jqlg
 㬇	jqmd
 易帜	jqmh
@@ -49873,8 +49872,8 @@ encoder:
 輇	lwgg
 辁	lwgg
 四分五裂	lwgg
-輸	lwgj
-输	lwgj
+输	lwgj	2
+輸	lwgj	1
 软件开发	lwgn
 畭	lwgs
 四舍五入	lwgt
@@ -82408,8 +82407,8 @@ encoder:
 重	tgj
 和平时期	tgja
 動	tgje
-篿	tgjf
-重	tgjf
+重	tgjf	2
+篿	tgjf	1
 重量	tgjg
 重申	tgjh
 濌	tgjj
@@ -87218,10 +87217,10 @@ encoder:
 勄	txet
 身强力壮	txeu
 每股	txew
+毎	txff
 第二	txfg
 第十	txfg
 每趟	txfh
-毎	txfj
 利维坦	txfj
 每场	txfn
 每块	txfn
@@ -89500,8 +89499,8 @@ encoder:
 敾	ugut
 半道	ugut
 美颜	ugut
-歚	uguw
-羡	uguw
+羡	uguw	2
+歚	uguw	1
 善于总结	ugux
 凄凉	uguy
 着凉	uguy
@@ -106140,8 +106139,8 @@ encoder:
 诒	yck
 㐬	yckb
 袬	ycke
-詒	yckg
-诒	yckg
+诒	yckg	2
+詒	yckg	1
 充足	yckh
 试验品	yckk
 译员	yckm
@@ -106158,8 +106157,8 @@ encoder:
 谲	ycn
 交通民警	ycna
 袤	ycne
-譎	ycnk
-谲	ycnk
+谲	ycnk	2
+譎	ycnk	1
 主观性	ycnt
 就难以	ycny
 高难度	ycoa
@@ -106196,8 +106195,8 @@ encoder:
 译述	ycsy
 诶	yct
 熟能生巧	ycta
-誒	yctd
-诶	yctd
+诶	yctd	2
+誒	yctd	1
 弃船	ycte
 高能物理	yctg
 交叉科学	ycti
@@ -108051,8 +108050,8 @@ encoder:
 畆	ylcy
 禀奏	yldw
 谓	yle
-謂	yleg
-谓	yleg
+谓	yleg	2
+謂	yleg	1
 认罪服罪	ylel
 亩	ylf
 颤动	ylfc
@@ -108101,8 +108100,8 @@ encoder:
 謱	ylvg
 谡	ylw
 䛺	ylwj
-謖	ylwt
-谡	ylwt
+谡	ylwt	2
+謖	ylwt	1
 畒	ylwy
 谓语	ylyg
 颤颤	ylyl
@@ -108135,8 +108134,8 @@ encoder:
 调走	ymfh
 市井	ymfj
 调进	ymfj
-調	ymfk
-调	ymfk
+调	ymfk	2
+調	ymfk	1
 市场	ymfn
 调教	ymft
 调零	ymfw
@@ -111961,8 +111960,8 @@ nm	zzdw	895
 ο	zzxx	457
 π	zzxx	456
 ρ	zzxx	455
-θ	zzxx	454
 σ	zzxx	454
+θ	zzxx	454
 τ	zzxx	453
 υ	zzxx	452
 φ	zzxx	451
