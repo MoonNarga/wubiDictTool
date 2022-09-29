@@ -52719,6 +52719,7 @@
 䎒	naay
 恍若隔世	naba
 展出	nabm
+懂了	nabn
 民防	naby
 异能	nace
 展台	nack
@@ -68243,9 +68244,9 @@
 急救	qvgi
 急速	qvgk
 急事	qvgk
-银两	qvgm
-键	qvgp
-鍵	qvgp
+银两	qvgm 
+键	qvgp	2
+鍵	qvgp	1
 争	qvh
 皱	qvh
 急遽	qvha
@@ -108166,13 +108167,13 @@
 词表	ynge
 赢球	yngg
 记下	yngh
-词	yngk
+词	yngk	2
 记事	yngk
 启事	yngk
 肇事	yngk
 房事	yngk
 扁豆	yngk
-詞	yngk
+詞	yngk	1
 刻画	yngl
 扁平	yngu
 诗情画意	yngu
@@ -109504,8 +109505,8 @@
 为界	ytlw
 谢	ytm
 䜒	ytmd
-谢	ytmf
-謝	ytmf
+谢	ytmf	2
+謝	ytmf	1
 㫋	ytmf
 旗帜	ytmh
 为由	ytmh

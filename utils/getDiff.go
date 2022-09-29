@@ -30,12 +30,16 @@ func GetDiff(dicts [][]string) {
 				str = append(str, "->")
 				str = append(str, vNew...)
 			}
+			delete(newMap, k)
 		} else {
-			str = append(str, k, " delete")
+			str = append(str, k, "delete")
 		}
 		if len(str) != 0 {
 			diffDict = append(diffDict, str)
 		}
+	}
+	for k, _ := range newMap {
+		diffDict = append(diffDict, []string{k, "add"})
 	}
 
 	sort.Slice(diffDict, func(i, j int) bool {
@@ -43,7 +47,11 @@ func GetDiff(dicts [][]string) {
 			return diffDict[i][len(diffDict[i])-1] < diffDict[j][len(diffDict[j])-1]
 		}
 		if len(diffDict[i]) == len(diffDict[j]) {
-			return diffDict[i][0] < diffDict[j][0]
+			if diffDict[i][1] == diffDict[j][1] {
+				return diffDict[i][0] < diffDict[j][0]
+			} else {
+				return diffDict[i][1] < diffDict[j][1]
+			}
 		}
 		return len(diffDict[i]) > len(diffDict[j])
 	})

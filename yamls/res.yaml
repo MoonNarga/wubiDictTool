@@ -52852,6 +52852,7 @@ encoder:
 恜	naay
 恍若隔世	naba
 展出	nabm
+懂了	nabn
 民防	naby
 异能	nace
 展台	nack
@@ -68395,8 +68396,8 @@ encoder:
 急事	qvgk
 急速	qvgk
 银两	qvgm
-鍵	qvgp
-键	qvgp
+键	qvgp	2
+鍵	qvgp	1
 争	qvh
 皱	qvh
 急遽	qvha
@@ -108363,8 +108364,8 @@ encoder:
 词表	ynge
 赢球	yngg
 记下	yngh
-詞	yngk
-词	yngk
+词	yngk	2
+詞	yngk	1
 启事	yngk
 房事	yngk
 扁豆	yngk
@@ -109705,9 +109706,9 @@ encoder:
 为界	ytlw
 谢	ytm
 䜒	ytmd
+谢	ytmf	2
+謝	ytmf	1
 㫋	ytmf
-謝	ytmf
-谢	ytmf
 斾	ytmh
 为由	ytmh
 旗帜	ytmh
@@ -111960,8 +111961,8 @@ nm	zzdw	895
 ο	zzxx	457
 π	zzxx	456
 ρ	zzxx	455
-σ	zzxx	454
 θ	zzxx	454
+σ	zzxx	454
 τ	zzxx	453
 υ	zzxx	452
 φ	zzxx	451
