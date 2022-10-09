@@ -45,7 +45,7 @@ func MergeHead(dicts [][]string) {
 		}
 		content[len(content)-1] = '\n'
 	}
-	err = os.WriteFile("./yamls/res.yaml", content, 0644)
+	err = os.WriteFile("./yamls/wubi_moonnarga.dict.yaml", content, 0644)
 	if err != nil {
 		panic(err)
 	}

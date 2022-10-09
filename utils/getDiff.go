@@ -38,7 +38,7 @@ func GetDiff(dicts [][]string) {
 			diffDict = append(diffDict, str)
 		}
 	}
-	for k, _ := range newMap {
+	for k := range newMap {
 		diffDict = append(diffDict, []string{k, "add"})
 	}
 
